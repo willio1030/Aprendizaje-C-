@@ -32,7 +32,7 @@ int main()
     int variable = 20, variable1 = 1;
     float reales = 1.3, real1 = 3;
     char caracter = 'b';
-    string palabra = "arvey";
+    String palabra = "arvey";
     bool variable9 = false, variable6 = true;
     const float pi = 3.1416;
     float condicionalsi = 0, nota = 0, nota1 = 0;
