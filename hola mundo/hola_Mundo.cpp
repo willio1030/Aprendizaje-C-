@@ -57,7 +57,7 @@ int main()
     cout << caracter << '\n';
     //cout << palabra << '\n';
 
-    cout << "ingrese nota "<<;
+    cout << "ingrese nota ";
  cin >> condicionalsi;
 
     if (condicionalsi < 29)
