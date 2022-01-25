@@ -32,7 +32,7 @@ int main()
     int variable = 20, variable1 = 1;
     float reales = 1.3, real1 = 3;
     char caracter = 'b';
-    String palabra = "arvey";
+    //String palabra = "arvey";
     bool variable9 = false, variable6 = true;
     const float pi = 3.1416;
     float condicionalsi = 0, nota = 0, nota1 = 0;
@@ -55,10 +55,10 @@ int main()
     cout << "jo jo jo '\n' feliz navidad " << '\n'
          << endl;
     cout << caracter << '\n';
-    cout << palabra << '\n';
+    //cout << palabra << '\n';
 
-    cout << "ingrese nota ";
-    cin >> condicionalsi;
+    cout << "ingrese nota "<<;
+ cin >> condicionalsi;
 
     if (condicionalsi < 29)
     {
@@ -147,7 +147,7 @@ int main()
 
   su estructura es asi: 
 
-  const in numero = 23; 
+  const int numero = 23; 
 
   
   
